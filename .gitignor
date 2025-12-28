@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Env files
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtualenv
+venv/
+.env/
+
